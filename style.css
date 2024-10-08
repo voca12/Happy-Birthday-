@@ -85,7 +85,7 @@ body {
     color: #111;
 }
 
-@media screen and (max-width:574px) {
+@media screen and (max-width:576px) {
     .greetings {
         display: block;
         font-size: 3rem;
@@ -95,6 +95,7 @@ body {
 
     .description {
         font-size: 1rem;
+        text-align: center;
     }
 
     .button a {
